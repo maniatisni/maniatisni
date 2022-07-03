@@ -30,6 +30,4 @@ You can reach me on: [maniatisni@gmail.com](mailto:maniatisni@gmail.com)
 <code><img height="20" src="https://slackmojis.com/emojis/9611-linux/download"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
- <br>
- <p align="left"> <img src="https://komarev.com/ghpvc/?username=AbhishekMaira10" alt="AbhishekMaiara10" /> </p>
- </br>
+![](https://komarev.com/ghpvc/?username=maniatisni&color=blueviolet)
