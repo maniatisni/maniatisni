@@ -11,7 +11,7 @@
 Hi, I'm Nikos Maniatis, a data analyst from Greece. I like solving problems and squeezing insights out of data, with a constantly growing love for learning new technologies. I previously studied Physics and did a Master's in Data Science and Machine Learning. Besides banging my head on my keyboard, I also love banging it in live shows wheen seeing my favorite bands 🎶 or while playing my favorite songs on the guitar🎸.  
 You can reach me on: [maniatisni@gmail.com](mailto:maniatisni@gmail.com)
 <br>
-<img align="right" alt="jpg" src="https://github.com/maniatisni/awesome-github-readme/blob/main/utils/meme2.png" width=420 />
+<img align="right" alt="jpg" src="https://github.com/maniatisni/maniatisni/blob/main/utils/meme2.png" width=420 />
 
 **Languages and Tools:**
 
